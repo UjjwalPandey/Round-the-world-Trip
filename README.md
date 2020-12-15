@@ -19,7 +19,7 @@ Your program should output the best solution it can find `within 60 seconds`.
 
 It shouldn't use more than `250MB of memory`. (basically, it should run with the -Xmx 250m command)
 
-The program will be `tested on a regular work laptop`.
+The program will be `tested on a regular laptop`.
 
 **Input**
 
