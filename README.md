@@ -74,7 +74,7 @@ On the other hand this may lead to few **_'misses'_**, i.e optimal solution of m
 
 Further, we can `optimise for the values of x & y`. eg. 
 - having x = 90 and y = 0.3 will give next to accurate result in less than 5 minutes. 
-- having x = 50 and y = 0.15 will give next to accurate result in less than 2 minutes. 
+- having x = 50 and y = 0.15 will give result (with around 1-2% diffrence in distance) in less than 2 minutes. 
 
 Please check the various [**test cases**](https://github.com/UjjwalPandey/Round-the-world-Trip/tree/master/src/results) that I tried.   
 
