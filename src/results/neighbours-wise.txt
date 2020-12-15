@@ -1,0 +1,215 @@
+50 neighbours
+
+MINIMUM DISTANCE (in KM):  35895.221595971205
+[Libreville/africa, Fernando de Noronha/south-america, Bridgetown/north-america, Bodrum/asia, Kastellorizo/europe, Home Island/oceania]
+Total time taken(seconds): 5.517
+
+MINIMUM DISTANCE (in KM):  35262.143722549394
+[Mombasa/africa, Fernando de Noronha/south-america, São Jorge Island/europe, Sermiligaaq/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 16.187
+
+MINIMUM DISTANCE (in KM):  35730.44644730255
+[Mumbai/asia, Home Island/oceania, Fernando de Noronha/south-america, Bridgetown/north-america, Al Hoceima/africa, Melilla/europe]
+Total time taken(seconds): 24.249
+
+MINIMUM DISTANCE (in KM):  39841.40018567791
+[Longana/oceania, Kauai/north-america, Providencia Island/south-america, Flores Island/europe, Jijel/africa, Çanakkale/asia]
+Total time taken(seconds): 0.413
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+70 neighbours
+
+MINIMUM DISTANCE (in KM):  35895.221595971205
+[Libreville/africa, Fernando de Noronha/south-america, Bridgetown/north-america, Bodrum/asia, Kastellorizo/europe, Home Island/oceania]
+Total time taken(seconds): 8.873
+
+
+MINIMUM DISTANCE (in KM):  35262.143722549394
+[Mombasa/africa, Fernando de Noronha/south-america, São Jorge Island/europe, Sermiligaaq/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 49.923
+
+
+MINIMUM DISTANCE (in KM):  35006.32318146005
+[Mumbai/asia, Kazan/europe, Ittoqqortoormiit/north-america, Fernando de Noronha/south-america, Jamestown/africa, Home Island/oceania]
+Total time taken(seconds): 52.301
+
+
+MINIMUM DISTANCE (in KM):  39835.327250793336
+[Longana/oceania, Kauai/north-america, Providencia Island/south-america, Flores Island/europe, Annaba/africa, Çanakkale/asia]
+Total time taken(seconds): 5.563
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+80 neighbours
+
+MINIMUM DISTANCE (in KM):  35808.94081885317
+[Libreville/africa, Fernando de Noronha/south-america, Quimper/europe, Ittoqqortoormiit/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 50.661
+
+MINIMUM DISTANCE (in KM):  34978.120115211525
+[Mombasa/africa, Fernando de Noronha/south-america, Horta, Azores/europe, Ittoqqortoormiit/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 79.691
+
+MINIMUM DISTANCE (in KM):  35006.32318146005
+[Mumbai/asia, Kazan/europe, Ittoqqortoormiit/north-america, Fernando de Noronha/south-america, Jamestown/africa, Home Island/oceania]
+Total time taken(seconds): 76.019
+
+MINIMUM DISTANCE (in KM):  39835.327250793336
+[Longana/oceania, Kauai/north-america, Providencia Island/south-america, Flores Island/europe, Annaba/africa, Çanakkale/asia]
+Total time taken(seconds): 3.943
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+85 neighbours
+
+MINIMUM DISTANCE (in KM):  35779.658013546345
+[Libreville/africa, Fernando de Noronha/south-america, Brest/europe, Ittoqqortoormiit/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 89.84
+
+MINIMUM DISTANCE (in KM):  34978.120115211525
+[Mombasa/africa, Fernando de Noronha/south-america, Horta, Azores/europe, Ittoqqortoormiit/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 141.729
+
+MINIMUM DISTANCE (in KM):  35006.32318146005
+[Mumbai/asia, Kazan/europe, Ittoqqortoormiit/north-america, Fernando de Noronha/south-america, Jamestown/africa, Home Island/oceania]
+Total time taken(seconds): 137.054
+
+MINIMUM DISTANCE (in KM):  39835.327250793336
+[Longana/oceania, Kauai/north-america, Providencia Island/south-america, Flores Island/europe, Annaba/africa, Çanakkale/asia]
+Total time taken(seconds): 4.07
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+90 neighbours
+
+MINIMUM DISTANCE (in KM):  35779.658013546345
+[Libreville/africa, Fernando de Noronha/south-america, Brest/europe, Ittoqqortoormiit/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 104.891
+
+MINIMUM DISTANCE (in KM):  34978.120115211525
+[Mombasa/africa, Fernando de Noronha/south-america, Horta, Azores/europe, Ittoqqortoormiit/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 115.186
+
+MINIMUM DISTANCE (in KM):  34981.59878650707
+[Mumbai/asia, Kazan/europe, Ittoqqortoormiit/north-america, Fernando de Noronha/south-america, Namibe/africa, Home Island/oceania]
+Total time taken(seconds): 131.98
+
+MINIMUM DISTANCE (in KM):  39772.979904839885
+[Longana/oceania, Merauke/asia, Vitebsk/europe, Tunis/africa, Santa Marta/south-america, Ustupo/north-america]
+Total time taken(seconds): 5.404
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+TOP 10% neighbours
+
+MINIMUM DISTANCE (in KM):  35895.221595971205
+[Libreville/africa, Fernando de Noronha/south-america, Bridgetown/north-america, Bodrum/asia, Kastellorizo/europe, Home Island/oceania]
+Total time taken(seconds): 43.432
+
+MINIMUM DISTANCE (in KM):  35262.143722549394
+[Mombasa/africa, Fernando de Noronha/south-america, São Jorge Island/europe, Sermiligaaq/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 29.082
+
+MINIMUM DISTANCE (in KM):  35642.003606965955
+[Mumbai/asia, Home Island/oceania, Fernando de Noronha/south-america, São Filipe/africa, Tasiusaq/north-america, Reykjavik/europe]
+Total time taken(seconds): 15.551
+
+MINIMUM DISTANCE (in KM):  39787.76559757469
+[Longana/oceania, Easter Island/south-america, São Vicente/africa, Valverde/europe, Kangiqsualujjuaq/north-america, Pevek/asia]
+Total time taken(seconds): 0.929
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TOP 20% neighbours
+
+MINIMUM DISTANCE (in KM):  35462.89880070713
+[Libreville/africa, Fernando de Noronha/south-america, County Kerry/europe, Ittoqqortoormiit/north-america, Bishkek/asia, Home Island/oceania]
+Total time taken(seconds): 569.267
+
+MINIMUM DISTANCE (in KM):  35261.411565207425
+[Mombasa/africa, Fernando de Noronha/south-america, Madeira/europe, Ittoqqortoormiit/north-america, Bishkek/asia, Home Island/oceania]
+Total time taken(seconds): 309.41
+
+MINIMUM DISTANCE (in KM):  35007.81770052715
+[Mumbai/asia, Ittoqqortoormiit/north-america, Ísafjörður/europe, Fernando de Noronha/south-america, Jamestown/africa, Home Island/oceania]
+Total time taken(seconds): 186.315
+
+MINIMUM DISTANCE (in KM):  39549.63693399297
+[Longana/oceania, Easter Island/south-america, Dakhla/africa, Las Palmas/europe, Clyde River, Nunavut/north-america, Pevek/asia]
+Total time taken(seconds): 12.857
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Math.min(90, 0.2*currentCity.distance_with_other_cities.get(continent).size())
+
+
+MINIMUM DISTANCE (in KM):  35779.658013546345
+[Libreville/africa, Fernando de Noronha/south-america, Brest/europe, Ittoqqortoormiit/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 15.809
+
+MINIMUM DISTANCE (in KM):  35262.143722549394
+[Mombasa/africa, Fernando de Noronha/south-america, São Jorge Island/europe, Sermiligaaq/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 123.587
+
+MINIMUM DISTANCE (in KM):  35664.10331072575
+[Seoul/asia, Saipan/oceania, Riohacha/south-america, Aruba/north-america, Tangier/africa, Algeciras/europe]
+Total time taken(seconds): 105.409
+
+MINIMUM DISTANCE (in KM):  35128.129096902616
+[Elista/europe, Barrow/north-america, Ua Huka/oceania, San Andrés/south-america, Casablanca/africa, Çanakkale/asia]
+Total time taken(seconds): 118.493
+
+MINIMUM DISTANCE (in KM):  33412.185973105814
+[Paris/europe, Algiers/africa, Las Piedras/south-america, Kiritimati/oceania, Atka/north-america, Anadyr/asia]
+Total time taken(seconds): 32.932
+
+MINIMUM DISTANCE (in KM):  35007.81770052715
+[Mumbai/asia, Ittoqqortoormiit/north-america, Ísafjörður/europe, Fernando de Noronha/south-america, Jamestown/africa, Home Island/oceania]
+Total time taken(seconds): 163.707
+
+MINIMUM DISTANCE (in KM):  39835.327250793336
+[Longana/oceania, Kauai/north-america, Providencia Island/south-america, Flores Island/europe, Annaba/africa, Çanakkale/asia]
+Total time taken(seconds): 5.464
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Math.min(90, 0.5*currentCity.distance_with_other_cities.get(continent).size())
+
+
+MINIMUM DISTANCE (in KM):  35779.658013546345
+[Libreville/africa, Fernando de Noronha/south-america, Brest/europe, Ittoqqortoormiit/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 124.287
+
+MINIMUM DISTANCE (in KM):  34978.120115211525
+[Mombasa/africa, Fernando de Noronha/south-america, Horta, Azores/europe, Ittoqqortoormiit/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 118.544
+
+MINIMUM DISTANCE (in KM):  35640.77144462407
+[Seoul/asia, Saipan/oceania, Las Piedras/south-america, Aruba/north-america, Tangier/africa, Algeciras/europe]
+Total time taken(seconds): 120.769
+
+MINIMUM DISTANCE (in KM):  35128.129096902616
+[Elista/europe, Barrow/north-america, Ua Huka/oceania, San Andrés/south-america, Casablanca/africa, Çanakkale/asia]
+Total time taken(seconds): 195.09
+
+MINIMUM DISTANCE (in KM):  33367.928156372225
+[Paris/europe, Algiers/africa, Santa Marta/south-america, Kiritimati/oceania, Atka/north-america, Anadyr/asia]
+Total time taken(seconds): 170.046
+
+MINIMUM DISTANCE (in KM):  34981.59878650707
+[Mumbai/asia, Kazan/europe, Ittoqqortoormiit/north-america, Fernando de Noronha/south-america, Namibe/africa, Home Island/oceania]
+Total time taken(seconds): 203.83
+
+MINIMUM DISTANCE (in KM):  39772.979904839885
+[Longana/oceania, Merauke/asia, Vitebsk/europe, Tunis/africa, Santa Marta/south-america, Ustupo/north-america]
+Total time taken(seconds): 5.695

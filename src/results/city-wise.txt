@@ -1,0 +1,250 @@
+EARTH CIRCUMFERENCE:  40,075 km
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1)LOD (Oceania):
+{3089.81613942217=asia, 5462.709219071081=north-america, 8531.2558797594=south-america, 9833.239139352405=europe, 10895.91310946134=africa}
+
+2 neighbours:
+
+MINIMUM DISTANCE (in KM):  41551.3164314124
+[Longana/oceania, Honolulu/north-america, Isabela/south-america, Flores Island/europe, Essaouira/africa, Çanakkale/asia]
+Total time taken(seconds): 0.003
+
+25 neighbours:
+
+MINIMUM DISTANCE:  38821.87263067761
+[oceania -- Longana, north-america -- Adak Island, asia -- Anadyr, africa -- Tangier, europe -- Faro, south-america]
+Total time taken: 98.027 seconds
+
+27 neighbours:
+
+MINIMUM DISTANCE (in KM):  38809.48868053977
+[oceania -- Longana, north-america -- Adak Island, asia -- Anadyr, europe -- Longyearbyen, africa -- Tangier, south-america]
+Total time taken(seconds): 308.668
+
+30 neighbours:
+
+MINIMUM DISTANCE:  38809.48868053977
+[oceania -- Longana, north-america -- Adak Island, asia -- Anadyr, europe -- Longyearbyen, africa -- Tangier, south-america]
+Total time taken: 484.319 seconds
+
+(advance)
+MINIMUM DISTANCE (in KM):  39027.72074778445
+[Longana/oceania, Isabela/south-america, Contadora Island/north-america, Faro/europe, Algiers/africa, Çanakkale/asia]
+Total time taken(seconds): 62.65	//(improve brake) 46.264
+
+35 neighbours:
+
+MINIMUM DISTANCE:  38809.48868053977	// 10, 39279.75442935299	// 20, 38491.951546503115/183.72	// 30 (w/o break 38376.17588522007,657.238 sec), (with break )
+[oceania-- Longana, north-america-- Adak Island, asia-- Anadyr, europe -- Longyearbyen, africa -- Tangier, south-america]
+Total time taken: 709.750 seconds // improved to 183.46 seconds
+
+
+50 neighbours(advance- w/o brakes):
+
+MINIMUM DISTANCE (in KM):  38476.63584208216
+[Longana/oceania, Mirny/europe, Norilsk/asia, Tangier/africa, Las Piedras/south-america, Aruba/north-america]
+Total time taken(seconds): 361.188
+
+
+ALL neighbours:
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2)BOM (asia)
+{2682.7362048612013=africa, 3786.535128726578=europe, 4355.187909444917=oceania, 8190.141185415872=north-america, 11755.43715844253=south-america}
+
+2 neighbours:
+
+MINIMUM DISTANCE (in KM):  41750.02409228563
+[Mumbai/asia, Bosaso/africa, João Pessoa, Paraíba/south-america, Reao/oceania, Kailua/north-america, Mirny/europe]
+Total time taken(seconds): 0.004
+
+
+25 neighbours:
+
+MINIMUM DISTANCE:  36531.42698276583
+[asia -- Mumbai, europe -- Kastellorizo, south-america -- Paramaribo, north-america -- Bridgetown, africa -- Freetown, oceania]
+Total time taken: 48.762 seconds
+
+30 neighbours:
+
+MINIMUM DISTANCE:  36474.11878385014
+[asia -- Mumbai, europe -- Kastellorizo, south-america -- Georgetown, north-america  -- Tobago, africa -- Monrovia, oceania]
+Total time taken: 230.319 seconds
+
+(advanced)
+MINIMUM DISTANCE (in KM):  35474.61197731718
+[Mumbai/asia, Ittoqqortoormiit/north-america, Sørvágur/europe, Fernando de Noronha/south-america, Jamestown/africa, Home Island/oceania]
+Total time taken(seconds): 37.801	// (improved brakes) 29.486
+
+
+35 neighbours:
+
+MINIMUM DISTANCE:  36471.229547569485
+[asia -- Mumbai, europe -- Rhodes, south-america -- Georgetown, north-america -- Tobago, africa -- San-Pédro, Ivory Coast, oceania]
+Total time taken: 379.588 seconds
+
+50 neighbours(advance- w/o brakes):
+
+MINIMUM DISTANCE (in KM):  35020.779787690466
+[Mumbai/asia, Ittoqqortoormiit/north-america, Reykjavik/europe, Fernando de Noronha/south-america, Jamestown/africa, 	/oceania]
+Total time taken(seconds): 75.213
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3) PAR (Europe):
+{1346.9924022276707=africa, 2127.000069614933=asia, 2722.232277944345=north-america, 6755.969237003857=south-america, 11349.683395816919=oceania}
+
+2 neighbours:
+
+MINIMUM DISTANCE (in KM):  35935.10506652313
+[Paris/europe, Tekirdağ/asia, Home Island/oceania, Rodrigues/africa, Fernando de Noronha/south-america, Bridgetown/north-america]
+Total time taken(seconds): 0.004
+
+
+25 neighbours:
+
+MINIMUM DISTANCE:  33383.308161521876
+[europe -- Paris, africa -- Tangier, south-america -- Georgetown, oceania -- Ua Huka, north-america -- Hilo, asia]
+Total time taken: 43.623 seconds
+
+30 neighbours:
+
+MINIMUM DISTANCE:  33050.083269600196
+[europe -- Paris, africa -- Tangier, south-america -- Porlamar, north-america -- Willemstad, oceania -- Ua Huka, asia]
+Total time taken: 213.907 seconds
+
+
+35 neighbors:
+
+MINIMUM DISTANCE:  33050.083269600196
+[europe -- Paris, africa -- Tangier, south-america -- Porlamar, north-america -- Willemstad, oceania -- Ua Huka, asia]
+Total time taken: 401.286 seconds
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4) ESL: (City of Eastern europe)
+{228.40678735329712=asia, 2084.6570567891426=africa, 4362.673948472577=north-america, 8345.21034163735=oceania, 9306.764727435768=south-america}
+
+2 neighbours:
+
+MINIMUM DISTANCE (in KM):  36203.21740186421
+[Elista/europe, Mineralnye Vody/asia, Home Island/oceania, Rodrigues/africa, Fernando de Noronha/south-america, Bridgetown/north-america]
+Total time taken(seconds): 0.005
+
+
+25 neighbours:
+
+MINIMUM DISTANCE (in KM):  35561.523955662255
+[europe -- Elista, asia -- Stavropol, africa  -- Tunis, north-america -- St. John s, south-america -- Providencia Island, oceania]
+Total time taken(seconds): 132.763   // IMPROVED TO 41.597
+
+27 neighbours:
+
+MINIMUM DISTANCE (in KM):  35461.126754587305
+[europe -- Elista, asia -- Oral, north-america -- Resolute, oceania -- Ua Huka, south-america -- Providencia Island, africa]
+Total time taken(seconds): 172.416
+
+
+30 neighbours:
+
+MINIMUM DISTANCE:  35445.87937925272
+[europe -- Elista, asia -- Oral, north-america -- Resolute, oceania -- Ua Huka, south-america -- Providencia Island, africa]
+Total time taken: 315.191 seconds	// improved to 157.31 secs
+
+
+35 neighbours:
+
+MINIMUM DISTANCE:  34981.23354393459
+[europe -- Elista, asia -- Oral, north-america -- Point Lay, oceania -- Ua Huka, south-america -- Providencia Island, africa]
+Total time taken: 357.847 seconds	// improved to 155.073
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4) MBA: (Kenya - City of Eastern Africa)
+{1962.374479595362=asia, 4583.147631389446=europe, 6347.070805079594=oceania, 7994.925621272868=south-america, 9421.466193334874=north-america}
+
+25 neighbours:
+
+MINIMUM DISTANCE (in KM):  37949.29169817464
+[africa -- Mombasa, asia -- Socotra, oceania -- Home Island, europe -- Kastellorizo, south-america -- Paramaribo, north-america ]
+Total time taken(seconds): 125.915
+
+30 neighbours (advance):
+MINIMUM DISTANCE (in KM):  35290.68478713919
+[Mombasa/africa, Fernando de Noronha/south-america, Vila Baleira/europe, Ittoqqortoormiit/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 36.664	// (improved brakes) 25.544
+
+
+35 neighbours:
+
+MINIMUM DISTANCE (in KM):  37283.42048467333		// 10, 35771.648197949355	//20, 35518.57168339279/58.263 sec   // 30,
+[africa -- Mombasa, asia -- Socotra, oceania -- Home Island, south-america -- Fernando de Noronha, north-america -- Bridgetown, europe]
+Total time taken(seconds): 503.661
+
+
+50 neighbours(advance- w/o brakes):
+
+MINIMUM DISTANCE (in KM):  35213.926757123474
+[Mombasa/africa, Fernando de Noronha/south-america, Flores Island/europe, Sermiligaaq/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 93.224
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5) LBV: (Libreville, Gabon - City of Western Africa)
+{3915.499195683441=europe, 3976.8389238929626=asia, 4679.635031214571=south-america, 7732.089497881309=north-america, 9731.93881721609=oceania}
+
+
+25 neighbours:
+
+MINIMUM DISTANCE (in KM):  37184.36507720536
+[africa -- Libreville, asia -- Aden, oceania -- Home Island, europe -- Kastellorizo, south-america -- Paramaribo, north-america]
+Total time taken(seconds): 116.573
+
+
+30 neighbours (advance):
+MINIMUM DISTANCE (in KM):  35360.26220921739
+[Libreville/africa, Fernando de Noronha/south-america, Vila Baleira/europe, Ittoqqortoormiit/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 42.322	// (improved brakes) 18.004
+
+
+
+35 neighbours:
+MINIMUM DISTANCE (in KM):  37010.249852039065		//10,   35841.22562002756	// 20, 35588.14910547099/53.829 sec	//
+[africa -- Libreville, asia -- Aden, oceania -- Home Island, south-america -- Fernando de Noronha, north-america -- Bridgetown, europe]
+Total time taken(seconds): 464.613	// imporved to 95.639
+
+
+50 neighbours(advance- w/o brakes):
+
+MINIMUM DISTANCE (in KM):  35283.50417920168
+[Libreville/africa, Fernando de Noronha/south-america, Flores Island/europe, Sermiligaaq/north-america, Chelyabinsk/asia, Home Island/oceania]
+Total time taken(seconds): 103.52
+
+
+100 neighbours(advance- w/o brakes):
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5) SEL: (Seoul, South Korea)
+{2914.212351864636=europe, 3101.394341465046=oceania, 4601.071098638182=north-america, 8175.494319267786=africa, 13627.391010769645=south-america}
+
+2 neighbours:
+
+MINIMUM DISTANCE (in KM):  36479.768390495155
+[Seoul/asia, Saipan/oceania, Atka/north-america, Providencia Island/south-america, Flores Island/europe, Essaouira/africa]
+Total time taken(seconds): 0.037
+
+
+30 neighbours (advanced):
+
+
+35 neighbours:
+
+MINIMUM DISTANCE (in KM):  35520.56937143231
+[asia -- Seoul, oceania -- Saipan, north-america -- Kauai, south-america -- Providencia Island, africa -- Tangier, europe]
+Total time taken(seconds): 271.369 // improved to 93.99
+
