@@ -50,11 +50,11 @@ Thus, now we have a Hashmap where 'continent name' as the Key and Value being th
 
 
 ### DFS:
-####Purpose:
+#### Purpose:
 Used because we need to look for every possible combination of cities, starting and ending at given input city, to get the Minimum Distance.
 
 
-### Pruning:
+### Pruning
 #### Purpose
 As the DFS will be of Order `O(a*b*c*d*e*f)` where a,b,c,d,e,f are the number of cities in each continent. Thus, to optimise it we need to shelve certain permutations: 
 
@@ -72,7 +72,9 @@ On the other hand this may lead to few **_'misses'_**, i.e optimal solution of m
 - The order of continents to be visited would roughly remain the same.
 - Drastic reduction in processing time.
 
-Further, we can `optimise for the values of x & y`. eg. having x = 90 or y = 0.2 will give next to accurate result in less than 5 minutes. 
+Further, we can `optimise for the values of x & y`. eg. 
+- having x = 90 and y = 0.3 will give next to accurate result in less than 5 minutes. 
+- having x = 50 and y = 0.15 will give next to accurate result in less than 2 minutes. 
 
 Please check the various [**test cases**](https://github.com/UjjwalPandey/Round-the-world-Trip/tree/master/src/results) that I tried.   
 
